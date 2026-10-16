@@ -1,0 +1,6 @@
+*.pt
+*.pth
+*.mp4
+*.xlsx
+clip-vit-base-patch32/
+__pycache__/
